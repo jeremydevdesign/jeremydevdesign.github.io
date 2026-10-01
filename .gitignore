@@ -1,0 +1,15 @@
+# This repo is PUBLIC: it is the root of jeremydevdesign.github.io and exists
+# to serve app-ads.txt (AdMob) plus a small developer page. No app source, no
+# build output, no data ever belongs here.
+#
+# Everything is ignored by default; the site files are allowlisted below.
+# Adding a new file means adding an explicit exception, so nothing gets
+# published by accident.
+
+*
+
+!app-ads.txt
+!index.html
+!.nojekyll
+!.gitignore
+!README.md
